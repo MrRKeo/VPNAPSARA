@@ -4,7 +4,7 @@
 
 {
 
-         "name": "SG-ML-MKO-001",
+         "name": "SG-Mobile Legends-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/SG-ML-MKO-001.ovpn"
 
@@ -12,7 +12,7 @@
 
 {
 
-         "name": "SG-FF-MKO-001",
+         "name": "SG-Garena Free Fire-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/SG-FF-MKO-001.ovpn"
 
@@ -20,7 +20,7 @@
 
 {
 
-         "name": "SG-PG-MKO-001",
+         "name": "SG-PUBG Mobile-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/SG-PG-MKO-001.ovpn"
 
@@ -28,7 +28,7 @@
 
 {
 
-          "name": "TH-ML-MKO-VIP",
+          "name": "TH-Mobile Legends-MKO-VIP",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-ML-MKO-VIP.ovpn"
 
@@ -37,7 +37,7 @@
 
 {
  
-            "name": "TH-FF-MKO-VIP",
+            "name": "TH-Garena Free Fire-MKO-VIP",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-FF-MKO-VIP.ovpn"
 
@@ -46,7 +46,7 @@
 
 {
 
-         "name": "TH-PG-MKO-VIP",
+         "name": "TH-PUBG Mobile-MKO-VIP",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-PG-MKO-VIP.ovpn"
       
@@ -78,10 +78,11 @@
 [</>] Garena Free Fire
 [</>] PUBG Mobile
 [</>] Social Pack
-[>]បងប្អូនជាទីគោរពរាប់អាន
-[>]សូមអោយមានសុខភាពល្អ
-[>]រកទទួលទានមានបាន
+[</>] បងប្អូនជាទីគោរពរាប់អាន
+[</>] សូមអោយមានសុខភាពល្អ
+[</>] រកទទួលទានមានបាន
 \n\nBY: MKO VPN",
 "title":"🙏សូមបងប្អូនធ្វើបច្ចុប្បន្នភាពឯកសារជារថ្មី🙏" ,
    "version":34
 }
+   
