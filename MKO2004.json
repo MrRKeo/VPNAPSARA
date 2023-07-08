@@ -32,7 +32,6 @@
 
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-ML-MKO-VIP.ovpn"
 
-
       },
 
 {
@@ -65,23 +64,55 @@
          "name": "TH-SocialPack-MKO-VIP",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-SocialPack-MKO.ovpn"
+                 
+       },
+
+{
+
+         "name": "TH-SocialPack-MKO-VIP2",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-SP-MKO-VIP2.ovpn"
+
+       },
+
+{
+
+         "name": "TH-Mobile Legends-MKO-VIP2",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-ML-MKO-VIP2.ovpn"
+
+       },
+
+{
+
+         "name": "TH-Garena Free Fire-MKO-VIP2",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-FF-MKO-VIP2.ovpn"
+
+       },
+
+{
+
+         "name": "TH-PUBG Mobile-MKO-VIP2",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-PG-MKO-VIP2.ovpn"      
 
       }
 
    ],
 
 "message":"
-មានប្រទេស🇹🇭 VPS Server VIP Free
-មានប្រទេស🇸🇬 VPS Server VIP Free
+មានប្រទេស🇹🇭 VPS 2Server VIP Free
+មានប្រទេស🇸🇬 VPS 1Server  Free
 កាំវិធីនេះជាកាំវិធីគម្រោងនិងសេវាកម្មដូចជា
-[</>] Mobile Legends
-[</>] Garena Free Fire
-[</>] PUBG Mobile
-[</>] Social Pack
-[</>] បងប្អូនជាទីគោរពរាប់អាន
-[</>] សូមអោយមានសុខភាពល្អ
-[</>] រកទទួលទានមានបាន
-\n\nBY: MKO VPN",
+[<᯽>] Mobile Legends
+[<᯽>] Garena Free Fire
+[<᯽>] PUBG Mobile
+[<᯽>] Social Pack
+[<᯽>] បងប្អូនជាទីគោរពរាប់អាន
+[<᯽>] សូមអោយមានសុខភាពល្អ
+[<᯽>] រកទទួលទានមានបាន
+\n\nᏴᎽ: ᎷᏦϴ ᐯᑭᑎ",
 "title":"🙏សូមបងប្អូនធ្វើបច្ចុប្បន្នភាពឯកសារជារថ្មី🙏" ,
-   "version":40
+   "version":42
 }
