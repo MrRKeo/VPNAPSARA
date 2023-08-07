@@ -1,108 +1,29 @@
 {
-
-   "files": [    
-
+   "files": [ 
 {
-
          "name": "SG-Mobile Legends-MKO",
-
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/SG-ML-MKO-001.ovpn"
-
       },
 
 {
-
          "name": "SG-Garena Free Fire-MKO",
-
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/SG-FF-MKO-001.ovpn"
-
       },
 
 {
-
          "name": "SG-PUBG Mobile-MKO",
-
          "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/SG-PG-MKO-001.ovpn"
 
       },
 
 {
-
-          "name": "TH-Mobile Legends-MKO-VIP",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-ML-MKO-VIP.ovpn"
-
-      },
-
-{
- 
-            "name": "TH-Garena Free Fire-MKO-VIP",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-FF-MKO-VIP.ovpn"
-
-
-      },
-
-{
-
-         "name": "TH-PUBG Mobile-MKO-VIP",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-PG-MKO-VIP.ovpn"
-      
-     },
-
-{
-
-         "name": "SG-SocialPack-MKO",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/SG-SocialPack-MKO.ovpn"
-              
-      },
-
-{
-
-         "name": "TH-SocialPack-MKO-VIP",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-SocialPack-MKO.ovpn"
-                 
-       },
-
-{
-
-         "name": "TH-SocialPack-MKO-VIP2",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-SP-MKO-VIP2.ovpn"
-
-       },
-
-{
-
-         "name": "TH-Mobile Legends-MKO-VIP2",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-ML-MKO-VIP2.ovpn"
-
-       },
-
-{
-
-         "name": "TH-Garena Free Fire-MKO-VIP2",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-FF-MKO-VIP2.ovpn"
-
-       },
-
-{
-
-         "name": "TH-PUBG Mobile-MKO-VIP2",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/TH-PG-MKO-VIP2.ovpn"      
-
+         "name": "TH-DTAC-GAME-FREE07",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       }
 
-   ],
 
-],
+   ],
 "message":"🚀 Config version - 5 \n📆 Latest update - 06/08/2023 / TIME 18:00 PM\n• Thailand🇹🇭 Server VIP \n• Singapore 🇸🇬 Server VIP \n• \n• GoodSpeed\n• Online Games 100%% \n• Dtac Truemove AIS  NOPRO \n•  အဆင်ပြေကြမယ်လို့မျှော်လင့်မိပါတယ်\n ကျုံရဲ့သားလေး\n ဟိန်းမင်းလတ် ",
    "title":"Do you want to update?",
-   "version": 59
+   "version": 60
 }
